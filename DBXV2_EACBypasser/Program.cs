@@ -32,7 +32,7 @@ namespace DBXV2_EACBypasser
             }
             else
             {
-                Console.WriteLine("Successfully to Finding DBXV 2 Folder(Steam Version)");
+                Console.WriteLine("Successfully to Find DBXV 2 Folder(Steam Version)");
                 if (!File.Exists("F:\\SteamLibrary\\steamapps\\common\\DB Xenoverse 2\\START.exe"))
                 {
                     Console.WriteLine("Not Founded File To Start EAC!!!");
